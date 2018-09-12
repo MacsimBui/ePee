@@ -1,0 +1,8 @@
+{
+  "name": "ePee",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "053fdb9c"
+}
